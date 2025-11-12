@@ -1,4 +1,4 @@
-# Hussain's Admin Menu Manager
+# Admin Menu Manager
 
 A simple, procedural PHP code snippet for WordPress to hide specific admin menu items based on user roles.
 
